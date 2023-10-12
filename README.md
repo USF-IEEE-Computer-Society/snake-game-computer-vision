@@ -6,3 +6,5 @@ computer-vision-workshop.pptx is the PowerPoint that was used during the worksho
 
 **main.py** is the final code of the project. It has everything we did during the workshop with code for collision for the snake and that missing line that enables snake to eat apples.
 **starter_code.py** is the code we started with during the workshop
+
+If you want to learn more about computer vision using cvzone, check out https://github.com/cvzone/cvzone
