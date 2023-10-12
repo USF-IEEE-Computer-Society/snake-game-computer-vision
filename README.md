@@ -1,6 +1,6 @@
 # snake-game-computer-vision
 
-This is a code from the workshop "Gesture Powered Gaming with Computer Vision and Python".
+This is a code from the workshop "Gesture Powered Gaming with Computer Vision and Python". Don't forget to have a device with webcamera and install cvzone and mediapipe (if you are confused, read the computer-vision-workshop.pptx).
 
 computer-vision-workshop.pptx is the PowerPoint that was used during the workshop. Refer to it if you need to start the project from scratch.
 
