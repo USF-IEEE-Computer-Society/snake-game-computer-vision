@@ -1,4 +1,15 @@
-# snake-game-computer-vision
+# Gesture Powered Gaming with Computer Vision and Python
+
+<img src="flyer.jpg" alt="Event flyer: Python snake game workshop, October 11, 6:30 to 8:30 PM, ENG 3." width="480">
+
+A workshop run by the IEEE Computer Society student branch chapter at the University of South Florida. You steer the snake with your hand in front of the webcam instead of with the arrow keys, and it still wants apples.
+
+Wednesday, October 11, 2023, 6:30 to 8:30 PM, ENG 3.
+
+- [Announcement on Instagram](https://www.instagram.com/p/CyBqYtvOz7V/)
+- [Recap on Instagram](https://www.instagram.com/p/CyT9m9UxH6f/)
+
+## Notes from the workshop
 
 This is a code from the workshop "Gesture Powered Gaming with Computer Vision and Python". Don't forget to have a device with webcamera and install cvzone and mediapipe (if you are confused, read the computer-vision-workshop.pptx).
 
